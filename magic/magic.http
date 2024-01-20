@@ -1,0 +1,6 @@
+@magic_HostAddress = http://localhost:5242
+
+GET {{magic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
